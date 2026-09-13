@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
+  "app_version": "1.2.0",
   "payload_url": "https://raw.githubusercontent.com/StrongKingFamous/Duo-AI-updates/main/payload.zip",
-  "payload_chunks": [],
-  "sha256": "f3b1b268a5499d7dd9844a669855ea80fdcfc3e3e446198d5433203a8579462f"
+  "payload_sha256": "53a86046d53b27f47df9a9592e73f8b90f57f6e9ef6e62e9e62f59b859f42705",
+  "launcher_min_version": "1.2.0"
 }
